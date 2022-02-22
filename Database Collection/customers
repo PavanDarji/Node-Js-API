@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62147097654df29fad1e2ecf"
+  },
+  "name": "Pavan",
+  "address": "Ahmedabad",
+  "city": "Naroda",
+  "email": "pa@mail.com",
+  "gender": "Male",
+  "phone": 9974464166,
+  "password": "PavanDarji123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62147155654df29fad1e2ed1"
+  },
+  "name": "dhaval",
+  "address": "vtc",
+  "city": "gandhinagar",
+  "email": "test@test.com",
+  "gender": "male",
+  "phone": 4546465656,
+  "password": "12345678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62147b87958156f58a507c4c"
+  },
+  "name": "Jinal",
+  "address": "Ahmedabad",
+  "city": "Naroda",
+  "email": "jinal@mail.com",
+  "gender": "Female",
+  "phone": 978456130,
+  "password": "123465",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62147c3532a95f73077aff32"
+  },
+  "name": "Minesh",
+  "address": "Ahmedabad",
+  "city": "Naroda",
+  "email": "minesh@mail.com",
+  "gender": "Male",
+  "phone": 93456130,
+  "password": "654321",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214875d3fcfa3a15723fc5b"
+  },
+  "name": "Abc",
+  "address": "sector 23",
+  "city": "gandhinagar",
+  "email": "abc@mail.com",
+  "gender": "male",
+  "phone": 122121321,
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214ad40a8d4e01398cc2722"
+  },
+  "name": "Urmila",
+  "address": "Ahemdabad",
+  "city": "Ahmedabad",
+  "email": "u@mail.com",
+  "gender": "Female",
+  "phone": 788960014,
+  "password": "urmila",
+  "__v": 0
+}]

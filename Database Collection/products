@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "62147f5b20e7f9752f860338"
+  },
+  "name": "BMW",
+  "category": "Car",
+  "description": "This is a Car",
+  "price": 800000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62148002109ee782802493b7"
+  },
+  "name": "Apple",
+  "category": "Fruits",
+  "description": "This is a Apple , and it is fruits",
+  "price": 150,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6214a95f5cd7fa1638ed344b"
+  },
+  "name": "Abc",
+  "category": "sector 23",
+  "description": "anything",
+  "price": 500,
+  "__v": 0
+}]

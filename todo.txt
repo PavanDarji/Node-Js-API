@@ -1,0 +1,11 @@
+Customer Register 
+Customer Login
+Add Product
+Update Product
+Delete Product
+Single Product GET
+Search Product
+Search Customer
+list all Product
+list all Customer
+Image Upload
